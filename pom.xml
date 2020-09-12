@@ -6,7 +6,7 @@
 
   <groupId>io.mycat</groupId>
   <artifactId>hy-mycat</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
 
   <name>hy-mycat</name>
   <!-- FIXME change it to the project's website -->
